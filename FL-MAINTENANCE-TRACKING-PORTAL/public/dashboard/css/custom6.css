@@ -1,0 +1,35 @@
+.alert-dismissible {
+    padding-right: 0rem; 
+}
+.alert {
+     padding: 0rem 10.5px; 
+     margin-bottom: 0px;
+}
+
+.rtl .alert-dismissible {
+    padding-right: 0rem; 
+}
+.rtl .alert {
+     padding: 0rem 10.5px; 
+     margin-bottom: 0px;
+}
+
+
+.theme-primary .btn-primary {
+    background-color: #6488ea;
+    border-color: #6488ea;
+    color: #ffffff;
+}
+.theme-primary .text-primary {
+    color: #6488ea !important;
+}
+
+.theme-primary .bg-primary-light {
+    background-color: #e1eaf9 !important;
+    color: #6488ea;
+}
+.theme-primary .nav-pills > li > a.active {
+    border-top-color: #6488ea;
+    background-color: #6488ea !important;
+    color: #ffffff;
+}

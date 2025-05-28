@@ -1,0 +1,12 @@
+#chart-channels{
+    height:328px;
+}
+.resent-tickets{
+    height: 234.8px;
+}
+
+@media only screen and (max-width: 1366px) {
+  .resent-tickets{
+    height: 330.797px;
+  }
+}
